@@ -91,7 +91,7 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.handleSubmit();
+    this.handleSubmit(); 
   }
 
   handleSubmit(): void {
